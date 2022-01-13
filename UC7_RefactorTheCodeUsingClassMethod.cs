@@ -43,7 +43,7 @@ namespace EmployeeWageComputationProblem
             return totalEmpWage;
         }
 
-        public void RefactotTheCode() 
+        public void RefactorTheCode() 
         {
           ComputeEmpWage();
         }
